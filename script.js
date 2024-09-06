@@ -9,7 +9,9 @@ const facts = [
 	'Goryle śpią nawet czternaście godzin dziennie.',
 	'Język kameleona jest dwukrotnie dłuższy od jego ciała.',
 	'Chińczycy w ciągu roku zużywają około 80 miliardów pałeczek.',
-	'Żeby wejść na Wieżę Eiffla trzeba pokonać aż 1710 stopni.'
+	'Żeby wejść na Wieżę Eiffla trzeba pokonać aż 1710 stopni.',
+	'Restauracji w Nowym Jorku jest tak wiele, że wystarczy, by każdego wieczoru przez 54 lata jeść kolację w innej.',
+	'LEGO jest największym producentem opon na świecie. Corocznie produkuje ich 306 mln (do samochodów z klocków).'
 ]
 
 
